@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!--Ҡԣ-->
+	<key>fish01</key>
+	<dict>
+		<key>fishRunSpeed</key>
+		<integer>50</integer>
+		<key>worth</key>
+		<integer>2</integer>
+		<key>runActs</key>
+		<integer>10</integer>
+		<key>catchedActs</key>
+		<integer>2</integer>
+		<key>theatenSpeedScale</key>
+		<string>4</string>
+		<key>theatenTime</key>
+		<string>2.0</string>
+	</dict>
+</dict>
+</plist>

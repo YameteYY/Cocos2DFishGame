@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>level</key>
+	<integer>0</integer>
+	<key>experience</key>
+	<integer>0</integer>
+	<key>coin</key>
+	<integer>200</integer>
+	<key>rangePoint</key>
+	<integer>0</integer>
+	<key>timePoint</key>
+	<integer>0</integer>
+	<key>speedPoint</key>
+	<integer>0</integer>
+	<key>addCoinPoint</key>
+	<integer>0</integer>
+	<key>doubleCoinPoint</key>
+	<integer>0</integer>
+<dict/>
