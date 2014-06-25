@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Mgr">
+      <UniqueIdentifier>{245e541e-8a7d-4ae4-8f3d-da5bcce0e2c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Obj">
+      <UniqueIdentifier>{1bc99935-afd3-4b13-be1a-db2c9aaa0d3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Ui">
+      <UniqueIdentifier>{7cb378de-a163-431c-b3bb-96cfd7a00ca7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PlayScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\Background.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\Coin.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\Fish.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\Net.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\Player.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\WaterWave.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\BackgroundMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\CoinMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\FishMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\LevelMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\NetMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\NumFactory.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\WaterWaveMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mgr\UIMgr.cpp">
+      <Filter>Classes\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Obj\Number.cpp">
+      <Filter>Classes\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ui\MainFrame.cpp">
+      <Filter>Classes\Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ui\SkillFrame.cpp">
+      <Filter>Classes\Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ui\PopupLayer.cpp">
+      <Filter>Classes\Ui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppMacros.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Definition.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PlayScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\Background.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\Coin.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\Fish.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\FishInfo.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\Net.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\Player.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\WaterWave.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\BackgroundMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\CoinMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\FishMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\LevelMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\NetMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\NumFactory.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\WaterWaveMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mgr\UIMgr.h">
+      <Filter>Classes\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Obj\Number.h">
+      <Filter>Classes\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ui\MainFrame.h">
+      <Filter>Classes\Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ui\SkillFrame.h">
+      <Filter>Classes\Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ui\PopupLayer.h">
+      <Filter>Classes\Ui</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
